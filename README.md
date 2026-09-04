@@ -329,7 +329,6 @@ The dashboard combines the complete workflow:
 - 4,000 held-out test rows
 
 ---
----
 
 ## 🔌 API Endpoints
 
