@@ -7,7 +7,7 @@
 **Predict returns • Explain risk • Estimate financial loss • Prioritize merchant review**
 
 <p>
-  <img src="docs/dashboard.png" alt="ReturnShield AI Dashboard" width="100%">
+  <img src="Images/dashboard.png" alt="ReturnShield AI Dashboard" width="100%">
 </p>
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)
