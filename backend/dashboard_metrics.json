@@ -1,0 +1,15 @@
+{
+    "dataset": {
+        "type": "held_out_test_set",
+        "orders": 4000
+    },
+    "threshold": 0.55,
+    "orders_analyzed": 4000,
+    "high_risk_orders": 3265,
+    "low_risk_orders": 735,
+    "actual_return_orders": 2753,
+    "high_risk_percentage": 81.62,
+    "average_return_probability": 0.6918,
+    "estimated_exposure_high_risk": 1115300.54,
+    "portfolio_expected_loss": 946896.95
+}

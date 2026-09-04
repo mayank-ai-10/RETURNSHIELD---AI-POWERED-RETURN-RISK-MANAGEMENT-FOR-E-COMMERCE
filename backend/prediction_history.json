@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2026-08-31T15:15:55",
+        "order_amount": 8154.0,
+        "product_category": "Books",
+        "return_probability": 0.8601,
+        "risk_level": "HIGH",
+        "recommendation": "MANUAL_REVIEW",
+        "estimated_return_cost": 527.7,
+        "expected_loss": 453.87,
+        "risk_factors": [
+            "High customer return rate",
+            "Multiple previous refunds",
+            "Low product rating",
+            "Long delivery time"
+        ]
+    }
+]
